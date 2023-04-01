@@ -1,2 +1,2 @@
 # whatsanalysis
-An analyisis of a Whatsapp chat.
+An analysis of a Whatsapp chat.
